@@ -6,7 +6,7 @@ A springboot project for user resistration and login, logout module.
 * User can login and logout
 * User can see the details and update as well
 
-#Tech stack:
+# Tech stack:
 * Java
 * spring
 * mysql
